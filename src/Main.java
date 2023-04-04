@@ -8,5 +8,9 @@ public class Main {
     Bridges bri = new Bridges();
     bri.bridges = "3";
 
+    City ci = new City();
+    ci.name = "West Palm Beachh";
+    ci.population = "2mil";
+
     }
 }
