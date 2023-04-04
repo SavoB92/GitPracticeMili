@@ -5,5 +5,9 @@ public class Main {
     ct.country = "United States";
     ct.state = "Florida";
 
+    City ci = new City();
+    ci.name = "West Palm Beachh";
+    ci.population = "2mil";
+
     }
 }
