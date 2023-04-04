@@ -5,5 +5,8 @@ public class Main {
     ct.country = "United States";
     ct.state = "Florida";
 
+    Bridges bri = new Bridges();
+    bri.bridges = "3";
+
     }
 }
